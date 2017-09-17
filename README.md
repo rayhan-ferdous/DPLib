@@ -1,5 +1,5 @@
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```python
+lst = [11, 22, 33]
+
+print lst[1] + locals()
 ```
